@@ -1,0 +1,1 @@
+This is a simple demonstration of the convergent series Ramanujan developed as an approximation of pi, as well as a demonstration of the rapid convergence of the series illustrated by the minimal error
